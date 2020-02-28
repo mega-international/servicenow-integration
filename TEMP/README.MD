@@ -1,1 +1,0 @@
-This folder contains temporary files needed either by the executable or Talend Open Studio
