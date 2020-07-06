@@ -1,0 +1,1 @@
+This folder contains the zip project to import in Talend Open Studio
